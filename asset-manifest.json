@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/betray/static/css/main.2543b9d3.css",
+    "main.js": "/betray/static/js/main.ab399c33.js",
+    "static/js/787.5cf83b86.chunk.js": "/betray/static/js/787.5cf83b86.chunk.js",
+    "index.html": "/betray/index.html",
+    "main.2543b9d3.css.map": "/betray/static/css/main.2543b9d3.css.map",
+    "main.ab399c33.js.map": "/betray/static/js/main.ab399c33.js.map",
+    "787.5cf83b86.chunk.js.map": "/betray/static/js/787.5cf83b86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2543b9d3.css",
+    "static/js/main.ab399c33.js"
+  ]
+}
